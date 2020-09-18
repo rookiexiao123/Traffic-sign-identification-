@@ -7,7 +7,7 @@
  
 测试 python predict.py 需要修改测试的图片文件名，模型我提供了一个class.model
 
-
+ ![模型网络结构](https://github.com/rookiexiao123/Traffic-sign-identification-/blob/master/2f9f55c1875707e106604c310445366.png)
 
 
 
